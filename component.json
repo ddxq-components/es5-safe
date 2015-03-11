@@ -3,5 +3,8 @@
   "description": "拓展原生对象,提供ES5规范新增的部分功能",
   "version": "1.0.0",
   "keywords": ["es5", "es5-shim"],
-  "main": "index.js"
+  "main": "index.js",
+  "scripts:":[
+    "index.js"
+  ]
 }

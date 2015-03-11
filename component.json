@@ -1,0 +1,7 @@
+{
+  "name": "es5-safe",
+  "description": "Provides compatibility shims so that legacy JavaScript engines behave as closely as possible to ES5.",
+  "version": "1.0.0",
+  "keywords": ["es5", "es5-shim"],
+  "main": "index.js"
+}

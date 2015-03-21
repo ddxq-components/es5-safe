@@ -24,6 +24,8 @@ Array.prototype.indexOf
 Array.prototype.lastIndexOf
 String.prototype.trim
 Date.now
+Date.prototype.toLocaleString
+Date.prototype.format
 ```
 
 Please refer to [MDN](https://developer.mozilla.org/En/JavaScript/ECMAScript_5_support_in_Mozilla) for detail usages.
